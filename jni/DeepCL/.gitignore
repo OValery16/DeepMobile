@@ -1,0 +1,80 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+foo.dat
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# python compiled modules
+*.pyc
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+*.pyd
+
+# Executables
+*.exe
+*.out
+*.app
+
+debug/
+build/
+build.luarocks/
+build-win32/
+build-win64/
+build-*/
+build.old/
+install/
+build2/
+build3/
+build4/
+build5/
+dist/
+dist2/
+temp/
+
+node_modules/
+data/
+
+data/mnist
+data/kgsgo
+data/norb
+data/cifar10
+
+# vi
+*.swp
+
+# PyClConvolve
+dist/
+*.egg-info/
+# PyClConvolve/OpenCLHelper/
+# PyClConvolve/src/
+# PyClConvolve/qlearning/
+# python/OpenCLHelper/
+python/src/
+# python/qlearning/
+python/mysrc/
+python/version.txt
+python/results.txt
+
+# lua
+lua/*-*.rock
+lua/*.rockspec
+
+

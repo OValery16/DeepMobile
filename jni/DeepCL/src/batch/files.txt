@@ -1,0 +1,14 @@
+OnDemandBatcherv2.cpp
+NetLearnerOnDemandv2.cpp
+Batcher2.cpp
+NetAction2.cpp
+Batcher.cpp
+BatchLearnerOnDemand.cpp
+BatchProcess.cpp
+EpochMaker.cpp
+NetAction.cpp
+NetLearner.cpp
+NetLearnerOnDemand.cpp
+OnDemandBatcher.cpp
+BatchData.cpp
+
